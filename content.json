@@ -88,7 +88,17 @@
           },
           "url": "https://github.com/AMIRSR5/CYBER-GYM-PUBLIC-/actions/runs/28055587989/artifacts/7832903892"
         }
-      ]
+      ],
+      "subtitle": {
+        "fa": "وب‌اپ تمرین هوشمند",
+        "en": "Smart workout web app"
+      },
+      "tech": [
+        "PWA",
+        "JavaScript",
+        "Offline"
+      ],
+      "cover": ""
     }
   ],
   "contact": {
